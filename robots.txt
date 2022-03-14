@@ -1,0 +1,5 @@
+# lol I'll fill this in eventually
+# not that there's much to find here so far!
+
+User-agent: *
+Disallow:
