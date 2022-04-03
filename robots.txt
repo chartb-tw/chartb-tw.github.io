@@ -1,5 +1,3 @@
-# lol I'll fill this in eventually
-# not that there's much to find here so far!
-
+# https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
